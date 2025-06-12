@@ -1,0 +1,45 @@
+.card {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    margin-bottom: 1rem;
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.table th {
+    background-color: #f8f9fa;
+}
+
+.btn-action {
+    margin-right: 0.25rem;
+}
+
+.summary-card {
+    border-left: 4px solid #0d6efd;
+}
+
+.summary-card.total-products {
+    border-left-color: #198754;
+}
+
+.summary-card.total-stock {
+    border-left-color: #dc3545;
+}
+
+.summary-card.total-debt {
+    border-left-color: #ffc107;
+}
+
+.summary-card.total-balance {
+    border-left-color: #0dcaf0;
+}
+
+.form-label {
+    font-weight: 500;
+}
+
+.alert {
+    margin-bottom: 1rem;
+} 
